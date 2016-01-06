@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'https://calm-tor-1463.herokuapp.com',
+        url: 'https://dailymantis.com',
         filestorage: false,
         mail: {},
         database: {
